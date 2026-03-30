@@ -130,5 +130,6 @@ Istanbul Technical University
 
 ##  Report
 
-Full technical report available here:  
-👉 report.pdf
+## 📄 Full Report
+
+👉 [Click here to view the full technical report](report.pdf)
